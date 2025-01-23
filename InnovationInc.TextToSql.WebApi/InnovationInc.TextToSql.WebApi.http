@@ -1,0 +1,6 @@
+@InnovationInc.TextToSql.WebApi_HostAddress = http://localhost:5128
+
+GET {{InnovationInc.TextToSql.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
